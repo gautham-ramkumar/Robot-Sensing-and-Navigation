@@ -1,2 +1,2 @@
 # Robot-Sensing-and-Navigation
-This repo contains all the work I've done as a part of the course EECE5554 - Robot Sensing and Navigation at Northeastern University.
+This repository contains all labs and assignments completed for the EECE5554: Robot Sensing and Navigation course at Northeastern University taken durin Fall 2024
